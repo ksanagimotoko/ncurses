@@ -1,0 +1,4 @@
+// check if ncurses is installed On Mac or Linux
+
+:ls -la /usr/include/ncurses.h
+lrwxr-xr-x  1 root  wheel  8  2 12  2018 /usr/include/ncurses.h -> curses.h
